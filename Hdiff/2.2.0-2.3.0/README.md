@@ -1,0 +1,2 @@
+- only patch English(US)
+- for audio Japanese, Korean, Chinese later
