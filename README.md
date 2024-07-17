@@ -28,8 +28,3 @@ For example, you want to update the game from 2.2.0 to 2.3.0:
     -----------------------------
     = Banks0.pck (62.5 MB)      // new size after update
     ```
-
-## Reference
-- [https://www.hoyolab.com/article/162549](https://www.hoyolab.com/article/162549)
-- [https://github.com/sisong/HDiffPatch/releases](https://github.com/sisong/HDiffPatch/releases)
-- [https://github.com/GamerYuan/GenshinPatcher](https://github.com/GamerYuan/GenshinPatcher)
